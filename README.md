@@ -11,7 +11,7 @@ This repository is about building a deep learning model using TensorFlow 2 to re
 
 Cloning the repository:
 
-     https://github.com/aryachoudhary10/voice-based-gender-identification.git
+     https://github.com/karanrana097
 
 Installing the required libraries:
 
